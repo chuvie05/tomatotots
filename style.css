@@ -29,11 +29,11 @@ body {
 /* Card container */
 .card-container {
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 230px;
+  left: 760px;
   transform: translate(-50%, -50%);
-  width: 384px;    /* match card size */
-  height: 226px;   /* match card size */
+  width: 384px;
+  height: 226px;  
   perspective: 1000px;  /* 3D perspective */
 }
 
@@ -66,5 +66,5 @@ body {
 }
 
 .card-back {
-  background: #fff;
+background: none;
 }
