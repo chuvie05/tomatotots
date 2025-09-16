@@ -22,9 +22,9 @@ body {
 }
 
 /* position top buttons */
-.keyA { top: 380px; left: 395px; }
-.keyB { top: 380px; left: 475px; }
-.keyC { top: 380px; left: 557px; }
+.keyA { top: 390px; left: 395px; }
+.keyB { top: 390px; left: 475px; }
+.keyC { top: 390px; left: 557px; }
 
 /* Card container */
 .card-container {
