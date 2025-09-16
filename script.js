@@ -1,7 +1,7 @@
 const words = {
   A: { 
     images: ["pics/applecard.png", "pics/antcard.png", "pics/arrowcard.png"], 
-    audio: ["words-sounds/apple.wav", "words-sounds/ant.wav"] 
+    audio: ["words-sounds/apple.wav", "words-sounds/ant.wav", "words-sounds/arrow.wav"] 
   },
   B: { 
     images: ["pics/bananacard.png", "pics/bookcard.png"], 
