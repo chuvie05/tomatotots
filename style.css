@@ -7,9 +7,9 @@ body, html {
 
 /* Background image */
 body {
-  background: url(pics/LAST.png) no-repeat center center fixed;
-  background-size: cover;
-  font-family: sans-serif;
+  background: url(pics/LAST.png) no-repeat center center;
+  background-size: contain;
+  background-color: #000; /* fill gaps */
 }
 .key {
   position: absolute;
